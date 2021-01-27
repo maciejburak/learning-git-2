@@ -1,0 +1,17 @@
+body{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;}
+
+h2{
+	margin-top: 0;
+	font-style: italic;}
+	
+h1{
+	margin-bottom: 10px;}
+p{
+	margin-bottom: 5px;
+}
+div{
+	margin-bottom: 10px;
+}
