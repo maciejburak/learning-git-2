@@ -1,7 +1,10 @@
 body{
+	display: -ms-flexbox;
 	display: flex;
-	flex-wrap: wrap;
-	flex-direction: column;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	-ms-flex-direction: column;
+	    flex-direction: column;
 	margin-left: 45%;
 	margin-right: 35%;
 	background: red;}
